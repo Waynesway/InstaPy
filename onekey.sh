@@ -154,18 +154,7 @@ cat>v2ray/config.json<<EOF
 			"protocol": "freedom",
 			"settings": {}
 		}
-	],
-	"policy": {
-		"levels": {
-			"0": {
-				"handshake": 3,
-				"connIdle": 5,
-				"uplinkOnly": 0,
-				"downlinkOnly": 0,
-				"bufferSize": 0
-			}
-		}
-	}
+	]
 }
 EOF
 fi
