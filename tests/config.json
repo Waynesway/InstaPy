@@ -1,0 +1,153 @@
+{
+  "inbounds": [
+    {
+      "port": 80,
+      "protocol": "vmess",
+      "settings": {
+        "decryption": "none",
+        "clients": [
+          {
+            "id": "81d54fde-8b05-4271-a40d-36f241b564ae",
+            "alterId": 0,
+            "email": "t@t.tt"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": ""
+        }
+      }
+    },
+    {
+      "port": 8080,
+      "protocol": "vmess",
+      "settings": {
+        "decryption": "none",
+        "clients": [
+          {
+             "id": "81d54fde-8b05-4271-a40d-36f241b564ae",
+            "alterId": 0,
+            "email": "t@t.tt"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": ""
+        }
+      }
+    },
+    {
+      "port": 8880,
+      "protocol": "vmess",
+      "settings": {
+        "decryption": "none",
+        "clients": [
+          {
+            "id": "81d54fde-8b05-4271-a40d-36f241b564ae",
+            "alterId": 0,
+            "email": "t@t.tt"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": ""
+        }
+      }
+    },
+    {
+      "port": 2052,
+      "protocol": "vmess",
+      "settings": {
+        "decryption": "none",
+        "clients": [
+          {
+            "id": "81d54fde-8b05-4271-a40d-36f241b564ae",
+            "alterId": 0,
+            "email": "t@t.tt"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": ""
+        }
+      }
+    },
+    {
+      "port": 2082,
+      "protocol": "vmess",
+      "settings": {
+        "decryption": "none",
+        "clients": [
+          {
+            "id": "81d54fde-8b05-4271-a40d-36f241b564ae",
+            "alterId": 0,
+            "email": "t@t.tt"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": ""
+        }
+      }
+    },
+    {
+      "port": 2086,
+      "protocol": "vmess",
+      "settings": {
+        "decryption": "none",
+        "clients": [
+          {
+            "id": "81d54fde-8b05-4271-a40d-36f241b564ae",
+            "alterId": 0,
+            "email": "t@t.tt"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": ""
+        }
+      }
+    },
+    {
+      "port": 2095,
+      "protocol": "vmess",
+      "settings": {
+        "decryption": "none",
+        "clients": [
+          {
+            "id": "81d54fde-8b05-4271-a40d-36f241b564ae",
+            "alterId": 0,
+            "email": "t@t.tt"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": ""
+        }
+      }
+    }
+  ],
+  "outbounds": [
+    {
+       "sendThrough": "194.29.187.20",
+      "tag": "IP4-out",
+      "protocol": "freedom",
+      "settings": {}
+    }
+  ]
+}
+
