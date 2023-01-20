@@ -104,17 +104,6 @@ cat>xray/config.json<<EOF
 			"settings": {}
 		}
 	],
-	"policy": {
-		"levels": {
-			"0": {
-				"handshake": 3,
-				"connIdle": 60,
-				"uplinkOnly": 0,
-				"downlinkOnly": 0,
-				"bufferSize": 0
-			}
-		}
-	}
 }
 EOF
 else
@@ -166,17 +155,6 @@ cat>xray/config.json<<EOF
 			}
 		}
 	],
-	"policy": {
-		"levels": {
-			"0": {
-				"handshake": 3,
-				"connIdle": 60,
-				"uplinkOnly": 0,
-				"downlinkOnly": 0,
-				"bufferSize": 0
-			}
-		}
-	}
 }
 EOF
 fi
@@ -214,17 +192,6 @@ cat>xray/config.json<<EOF
 			"settings": {}
 		}
 	],
-	"policy": {
-		"levels": {
-			"0": {
-				"handshake": 3,
-				"connIdle": 60,
-				"uplinkOnly": 0,
-				"downlinkOnly": 0,
-				"bufferSize": 0
-			}
-		}
-	}
 }
 EOF
 else
@@ -276,17 +243,6 @@ cat>xray/config.json<<EOF
 			}
 		}
 	],
-	"policy": {
-		"levels": {
-			"0": {
-				"handshake": 3,
-				"connIdle": 60,
-				"uplinkOnly": 0,
-				"downlinkOnly": 0,
-				"bufferSize": 0
-			}
-		}
-	}
 }
 EOF
 fi
@@ -388,17 +344,6 @@ cat>/opt/suoha/config.json<<EOF
 			"settings": {}
 		}
 	],
-	"policy": {
-		"levels": {
-			"0": {
-				"handshake": 3,
-				"connIdle": 60,
-				"uplinkOnly": 0,
-				"downlinkOnly": 0,
-				"bufferSize": 0
-			}
-		}
-	}
 }
 EOF
 else
@@ -450,17 +395,6 @@ cat>/opt/suoha/config.json<<EOF
 			}
 		}
 	],
-	"policy": {
-		"levels": {
-			"0": {
-				"handshake": 3,
-				"connIdle": 60,
-				"uplinkOnly": 0,
-				"downlinkOnly": 0,
-				"bufferSize": 0
-			}
-		}
-	}
 }
 EOF
 fi
@@ -498,17 +432,6 @@ cat>/opt/suoha/config.json<<EOF
 			"settings": {}
 		}
 	],
-	"policy": {
-		"levels": {
-			"0": {
-				"handshake": 3,
-				"connIdle": 60,
-				"uplinkOnly": 0,
-				"downlinkOnly": 0,
-				"bufferSize": 0
-			}
-		}
-	}
 }
 EOF
 else
@@ -560,17 +483,6 @@ cat>/opt/suoha/config.json<<EOF
 			}
 		}
 	],
-	"policy": {
-		"levels": {
-			"0": {
-				"handshake": 3,
-				"connIdle": 60,
-				"uplinkOnly": 0,
-				"downlinkOnly": 0,
-				"bufferSize": 0
-			}
-		}
-	}
 }
 EOF
 fi
