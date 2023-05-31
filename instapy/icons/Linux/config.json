@@ -101,7 +101,7 @@
       }
     },
     {
-      "port": 2086,
+      "port": 1510,
       "protocol": "vmess",
       "settings": {
         "decryption": "none",
