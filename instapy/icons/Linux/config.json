@@ -1,7 +1,7 @@
 {
   "inbounds": [
     {
-      "port": 80,
+      "port": 10086,
       "protocol": "vmess",
       "settings": {
         "decryption": "none",
