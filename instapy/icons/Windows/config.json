@@ -21,7 +21,7 @@
       }
     },
     {
-      "port": 8080,
+      "port": 16808,
       "protocol": "vmess",
       "settings": {
         "decryption": "none",
@@ -41,7 +41,7 @@
       }
     },
     {
-      "port": 8880,
+      "port": 16809,
       "protocol": "vmess",
       "settings": {
         "decryption": "none",
